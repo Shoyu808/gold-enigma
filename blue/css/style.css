@@ -1,4 +1,10 @@
-@media (min-width: 375px) {
+#me {
+    float: left;
+}
+@media (min-width: 576px) {
+    a .nav-link {
+        text-align: right;
+    }
     .navbar-nav {
         float: right;
     }
