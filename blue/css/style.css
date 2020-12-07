@@ -1,5 +1,6 @@
-#me {
-    float: left;
+.images {
+    height: 350px;
+    width: 350px;
 }
 @media (min-width: 576px) {
     a .nav-link {
