@@ -1,5 +1,7 @@
 body {
     background-color: beige;
+    border: cornflowerblue;
+    border-radius: 5%;
 }
 /* img {
     display: block;
