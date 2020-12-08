@@ -1,9 +1,13 @@
-#me, #bacon, #eggs, #saus, #ketchup, #olive, #oil {
-    height: 350px;
-    width: 350px;
+.rounded {
+    height: 300px;
+    width: 300px;
     display: block;
-    margin: 0 auto;
 }
+
+/* #me {
+    float: left;
+} */
+
 @media screen and (max-width: 768px) {
     body {
         background-color: #333;
