@@ -1,12 +1,16 @@
 body {
-    background-image: url(https://mail.google.com/mail/u/0?ui=2&ik=9571d5d5c8&attid=0.1.1&permmsgid=msg-f:1685495042616658660&th=176414cfa5d90ae4&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ80dlXLgpa257P3oHaf1XPFLUs1nWpYi2ntA-MJClEZNIXhER4SJ-Jrcyqdz327A3K3Mf5cqkiTs71MgJEvZufgUy9B37C3eHldwGoS_Q2igry54lZo1v2ZNg0&disp=emb)
+    background-image: url(https://github.com/Shoyu808/gold-enigma/blob/main/blue/images/lake.3.jpg?raw=true);
+}
+
+nav {
+    font-family: 'Playfair Display', serif;
 }
 
 .container {
-    background-color: white;
-    border: hidden 5px black;
-    border-radius: 3px;
-    margin-top: 30px; 
+    background-color: whitesmoke;
+    margin-top: 30px;
+    font-family: 'Playfair Display', serif; 
+
 }
 /* img {
     display: block;
