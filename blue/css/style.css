@@ -1,8 +1,8 @@
-.rounded {
+/* .rounded {
     height: 300px;
     width: 300px;
     display: block;
-}
+} */
 
 /* #me {
     float: left;
@@ -13,7 +13,7 @@
         background-color: #333;
     }
 
-    .container {
+    .wrapper {
         width: 600px;
     }
 }
