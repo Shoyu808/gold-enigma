@@ -1,34 +1,19 @@
+/* I added an image to the background of my site */
 body {
     background-image: url(https://github.com/Shoyu808/gold-enigma/blob/main/blue/images/lake.3.jpg?raw=true);
 }
-
+/* I had to a nav element because putting it in the body doesn't target the fonts */
 nav {
     font-family: 'Playfair Display', serif;
 }
-
+/* 
+I put a class container to change the background color.
+Added margin on the top so there's a gap between the navbar.
+Also added the font family to make sure everything in the container change their fonts 
+*/
 .container {
     background-color: whitesmoke;
     margin-top: 30px;
     font-family: 'Playfair Display', serif; 
-
 }
-/* img {
-    display: block;
-    max-width: 100%;
-    height: auto;
-} */
 
-/* #me {
-    height: 350px;
-    width: 350px;
-} */
-
-/* @media screen and (max-width: 768px) {
-    body {
-        background-color: #333;
-    }
-
-    .container {
-        width: 600px;
-    }
-} */
