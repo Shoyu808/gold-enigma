@@ -1,11 +1,15 @@
-/* .rounded {
-    height: 300px;
-    width: 300px;
+body {
+    background-color: beige;
+}
+/* img {
     display: block;
+    max-width: 100%;
+    height: auto;
 } */
 
 /* #me {
-    float: left;
+    height: 350px;
+    width: 350px;
 } */
 
 @media screen and (max-width: 768px) {
@@ -13,7 +17,7 @@
         background-color: #333;
     }
 
-    .wrapper {
+    .container {
         width: 600px;
     }
 }
