@@ -30,11 +30,11 @@ Next you'll want to add the links of the CSS and Javascript file. Here's the lin
 
 Now that you're all set to use bootstrap let me demonstrate one of the tools I've used that bootstrap has to offer. One of the tools that I used on bootstrap is their *Grid System*. Their Grid system made it easier to organize your web page thanks to  [*Flexbox*](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox).The way on how they build their layouts is there 12 column system. Here's an image so you could see an example and I'll explain more.
 
-![Image-of-grid-system]()
+![Image-of-grid-system](https://github.com/Shoyu808/gold-enigma/blob/main/blue/images/Screenshot%20(14).png?raw=true)
 
 In the image above you'll see that they fit nicely into the **Container**. I tried to manually resize the pictures but for some reason the pictures will go out of the grid system so I left the image sizes as is. Here's also the link to the bootstrap [*Grid System*](https://getbootstrap.com/docs/5.0/layout/grid/). So the way on how I used their grid system is to create a container with *3 rows* and in each row it'll have *2 columns* each. Reason why I set it up like that is so my *Portfolio* can have a nice vertical layout lined up with each other. This is the image of how my **Portfolio.html** file looks and how I set it up.
 
-![Image-of-portfolio-html]()
+![Image-of-portfolio-html](https://github.com/Shoyu808/gold-enigma/blob/main/blue/images/Screenshot%20(15).png?raw=true)
 
 I commented on my *HTML* files if you want to see what other tools I've used from bootstrap if you're curious.
 
