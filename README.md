@@ -20,4 +20,41 @@ As you could see on the top of my README.md file I have badges shown on what typ
 
 The first step is to create an *HTML* file in your terminal or Vscode. Next you can use the snippet ***html:5*** to setup your *Html* file on Vscode. It'll make your life easier unless you just like to manually input the code yourself. Here's an image on how your *HTML* should look.
 
-![Image-of-html5]()
+![Image-of-html5](https://github.com/Shoyu808/gold-enigma/blob/main/blue/images/Screenshot%20(11).png?raw=true)
+
+Next you'll want to add the links of the CSS and Javascript file. Here's the link to the [Bootstrap CSS and Javascript code](https://getbootstrap.com/docs/5.0/getting-started/introduction/). I'll also add an image with comments of where to place the *CSS* and *Javascript* code so you'll know how to get started.
+
+![Image-of-bootstrap-link](https://github.com/Shoyu808/gold-enigma/blob/main/blue/images/Screenshot%20(13).png?raw=true)
+
+####***Important! You always want the script file last in the body section of you HTML file to make bootstrap work. You don't want your tags to get overwritten.***
+
+Now that you're all set to use bootstrap let me demonstrate one of the tools I've used that bootstrap has to offer. One of the tools that I used on bootstrap is their *Grid System*. Their Grid system made it easier to organize your web page thanks to  [*Flexbox*](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox).The way on how they build their layouts is there 12 column system. Here's an image so you could see an example and I'll explain more.
+
+![Image-of-grid-system]()
+
+In the image above you'll see that they fit nicely into the **Container**. I tried to manually resize the pictures but for some reason the pictures will go out of the grid system so I left the image sizes as is. Here's also the link to the bootstrap [*Grid System*](https://getbootstrap.com/docs/5.0/layout/grid/). So the way on how I used their grid system is to create a container with *3 rows* and in each row it'll have *2 columns* each. Reason why I set it up like that is so my *Portfolio* can have a nice vertical layout lined up with each other. This is the image of how my **Portfolio.html** file looks and how I set it up.
+
+![Image-of-portfolio-html]()
+
+I commented on my *HTML* files if you want to see what other tools I've used from bootstrap if you're curious.
+
+## *Credits*
+
+Where I got my information and who I would want to thank!
+
+* [ALL HAIL BOOTSTRAP!!!](https://getbootstrap.com/)
+* [MDN web docs](https://developer.mozilla.org/en-US/)
+* [Gitbash](https://git-scm.com/)
+* [Google](https://www.google.com)
+* *CJ Haughey* [Springboard Blog](https://www.springboard.com/blog/programmer-portfolio/)
+* [Github](https://github.com)
+* [VsCode](https://code.visualstudio.com/)
+* [Wikipedia](https://en.wikipedia.org)
+* [Microsoft](https://www.microsoft.com)
+* [My other Github repositories](https://github.com/Shoyu808)
+
+## *License*
+
+Copyright (C) 2020 Free Software Foundation, Inc.
+
+Licensed under the [GNU](https://choosealicense.com/licenses/gpl-3.0/) license. 
