@@ -26,7 +26,7 @@ Next you'll want to add the links of the CSS and Javascript file. Here's the lin
 
 ![Image-of-bootstrap-link](<https://github.com/Shoyu808/gold-enigma/blob/main/blue/images/Screenshot%20(13).png?raw=true>)
 
-####**_Important! You always want the script file last in the body section of you HTML file to make bootstrap work. You don't want your tags to get overwritten._**
+#### **_Important! You always want the script file last in the body section of you HTML file to make bootstrap work. You don't want your tags to get overwritten._**
 
 Now that you're all set to use bootstrap let me demonstrate one of the tools I've used that bootstrap has to offer. One of the tools that I used on bootstrap is their _Grid System_. Their Grid system made it easier to organize your web page thanks to [_Flexbox_](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox).The way on how they build their layouts is there 12 column system. Here's an image so you could see an example and I'll explain more.
 
